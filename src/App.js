@@ -1,5 +1,7 @@
 import React from "react";
 import NavBar from "./Componentes/NavBar/NavBar";
+import OneSection from "./Componentes/OneSection/OneSection";
+
 
 
 
@@ -9,6 +11,8 @@ function App() {
     <div className="contenedor">
 
       <NavBar />
+      <OneSection />
+      
       
       
     </div>

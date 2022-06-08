@@ -6,6 +6,8 @@ import './index.css'
 import './Componentes/NavBar/NavBar.components'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap';
+import OneSection from './Componentes/OneSection/OneSection';
+
 
 
 
